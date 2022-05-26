@@ -1,5 +1,5 @@
 import streamlit as st #for web dev
-from aitextgen import aitextgen #for ai text gen
+import aitextgen #for ai text gen
 
 st.title("AITEXTGEN Web App")
 
